@@ -1,0 +1,15 @@
+{
+  "project": "HR Analytics - Advanced Employee Attrition Prediction",
+  "version": "2.0",
+  "dataset": "IBM HR Analytics Employee Attrition & Performance",
+  "dataset_status": "downloaded by script at runtime from public source",
+  "ml_models": [
+    "Logistic Regression",
+    "Random Forest",
+    "HistGradientBoosting"
+  ],
+  "explainability": "SHAP",
+  "dashboard": "Power BI",
+  "app": "Streamlit",
+  "random_seed": 42
+}

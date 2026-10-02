@@ -1,0 +1,70 @@
+feature,mean_abs_shap
+num__TotalWorkingYears,0.5196187201355398
+num__NumCompaniesWorked,0.44086610667688075
+cat__OverTime_No,0.35921187058729104
+cat__JobRole_Laboratory Technician,0.3331658786840539
+num__YearsWithCurrManager,0.3287349875713239
+cat__OverTime_Yes,0.31724832006985026
+num__SatisfactionIndex,0.3018458682649107
+cat__BusinessTravel_Travel_Frequently,0.30005445121534957
+cat__AgeBand_36-45,0.2887978723814586
+num__YearsSinceLastPromotion,0.27667088635089526
+num__DistanceFromHome,0.2563799278078623
+num__JobLevel,0.2466505832283293
+num__JobInvolvement,0.23955124956574758
+num__RoleTenureRatio,0.23305278275064278
+num__EnvironmentSatisfaction,0.2301281036652448
+num__YearsAtCompany,0.21645303737779023
+cat__MaritalStatus_Single,0.20452893217193427
+cat__IncomeBand_Medium,0.19987988386364322
+num__JobSatisfaction,0.19582993524710252
+num__PercentSalaryHike,0.18722823111287906
+cat__BusinessTravel_Non-Travel,0.18173600715756502
+num__Age,0.16502567922569458
+num__DailyRate,0.15866814080743472
+cat__EducationField_Life Sciences,0.14982017608104026
+num__StockOptionLevel,0.14961422358186277
+cat__MaritalStatus_Divorced,0.13630536296040494
+cat__Department_Sales,0.1345602014590782
+cat__TenureBand_2-3,0.13090505954557222
+num__MonthlyIncome,0.1305745663033482
+cat__TenureBand_0-1,0.12858560994955073
+num__TrainingTimesLastYear,0.12283319672325983
+cat__AgeBand_46-55,0.11255512392678778
+cat__JobRole_Research Director,0.10875897305624622
+cat__Department_Research & Development,0.10604877010249503
+cat__Gender_Female,0.10095823834482955
+cat__JobRole_Sales Representative,0.09770315975264494
+num__EarlyCareer,0.09306616692511602
+num__PerformanceRating,0.08814424861637998
+num__RelationshipSatisfaction,0.08715109715078447
+num__YearsInCurrentRole,0.08377625344691297
+cat__TenureBand_8-12,0.08246465764218819
+num__PromotionGapRatio,0.08224746536181372
+num__WorkLifeBalance,0.07899965885880258
+cat__JobRole_Healthcare Representative,0.07872799945570802
+cat__AgeBand_26-35,0.07477489942791732
+cat__EducationField_Medical,0.0726822302500358
+cat__MaritalStatus_Married,0.07230743506700282
+cat__TenureBand_13+,0.07087923513724996
+cat__JobRole_Sales Executive,0.06971486698157396
+cat__IncomeBand_Very High,0.059382018584484546
+cat__EducationField_Technical Degree,0.05779054207124906
+cat__IncomeBand_Low,0.055971208902124946
+cat__JobRole_Research Scientist,0.055082639239062
+cat__JobRole_Manager,0.054964278309771554
+num__Education,0.05417122742862323
+cat__Gender_Male,0.050376564523117964
+num__HourlyRate,0.04798470423098527
+cat__IncomeBand_High,0.03666898369418637
+cat__EducationField_Other,0.036549442533565915
+cat__BusinessTravel_Travel_Rarely,0.027179332049515437
+cat__JobRole_Human Resources,0.02338796411980892
+num__MonthlyRate,0.019977677810181484
+cat__JobRole_Manufacturing Director,0.0171799295765703
+cat__EducationField_Human Resources,0.01577558099149616
+cat__AgeBand_56+,0.015110831026904978
+cat__Department_Human Resources,0.012609104699630053
+cat__AgeBand_<=25,0.005499567638844806
+cat__EducationField_Marketing,0.005015120094320972
+cat__TenureBand_4-7,0.0033253800394247375
